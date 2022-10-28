@@ -1,0 +1,7 @@
+C:\Users\Tecnico\source\repos\crfapp\crfapp\obj\Debug\crfapp.csprojAssemblyReference.cache
+C:\Users\Tecnico\source\repos\crfapp\crfapp\obj\Debug\crfapp.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\source\repos\crfapp\crfapp\bin\Debug\crfapp.exe.config
+C:\Users\Tecnico\source\repos\crfapp\crfapp\bin\Debug\crfapp.exe
+C:\Users\Tecnico\source\repos\crfapp\crfapp\bin\Debug\crfapp.pdb
+C:\Users\Tecnico\source\repos\crfapp\crfapp\obj\Debug\crfapp.exe
+C:\Users\Tecnico\source\repos\crfapp\crfapp\obj\Debug\crfapp.pdb
